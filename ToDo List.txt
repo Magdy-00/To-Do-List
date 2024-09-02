@@ -1,0 +1,2 @@
+1 Buy anything 1
+2 buy nothing 1
